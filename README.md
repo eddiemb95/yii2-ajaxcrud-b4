@@ -1,13 +1,7 @@
 yii2-ajaxcrud-b4 
 =============
 
-[![Latest Stable Version](https://poser.pugx.org/eddiemb65/yii2-ajaxcrud-b4/v/stable)](https://packagist.org/packages/eddiemb65/yii2-ajaxcrud-b4)
-[![License](https://poser.pugx.org/eddiemb65/yii2-ajaxcrud-b4/license)](https://packagist.org/packages/eddiemb65/yii2-ajaxcrud-b4)
-[![Total Downloads](https://poser.pugx.org/eddiemb65/yii2-ajaxcrud-b4/downloads)](https://packagist.org/packages/eddiemb65/yii2-ajaxcrud-b4)
-
 Gii CRUD template for Single Page Ajax Administration for yii2 para boopstrap 4 
-
-![yii2 ajaxcrud extension screenshot](https://c1.staticflickr.com/1/330/18659931433_6e3db2461d_o.png "yii2 ajaxcrud extension screenshot")
 
 
 Features
